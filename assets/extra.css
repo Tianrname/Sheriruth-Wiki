@@ -1,0 +1,11 @@
+.sheriruth-gradient {
+  background: linear-gradient(120deg, #b388ff, #ffffff, #ce93d8);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  color: transparent !important;
+}
+
+.attr-shadow {
+  text-shadow: 4px 4px 6px rgba(0, 0, 0, 0.5);
+}
