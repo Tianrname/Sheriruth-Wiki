@@ -37,6 +37,6 @@
   ---
  
 <div style="background-color: #f0f0f0; padding: 8px 12px; border-radius: 6px; display: inline-block;">
-  <img src="./images/天坑.png" alt="天坑" />
+  <img src="images/天坑.png" alt="天坑" />
 </div>
 <div style="font-size: 0.85em; color: #888; margin-top: 4px; text-align: center;">（Sheriruth 制作者）</div>
