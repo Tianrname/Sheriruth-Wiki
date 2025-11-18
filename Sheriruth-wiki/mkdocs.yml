@@ -1,3 +1,12 @@
-site_name: My Docs
+site_name: Sheriruth 官方Wiki
 theme:
   name: 'material'
+  extra_css:
+    - assets/extra.css
+nav:
+  - 首页: index.md
+  - 入门:
+      - 世界观: xinshou/世界观.md
+      - 属性:
+          - 概述: /xinshou/属性
+          - FAQ: /xinshou/FAQ
