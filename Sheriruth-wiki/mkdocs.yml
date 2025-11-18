@@ -8,5 +8,4 @@ nav:
   - 入门:
       - 世界观: xinshou/世界观.md
       - 属性:
-          - 概述: /xinshou/属性
-          - FAQ: /xinshou/属性
+          - 概述: xinshou/属性.md
