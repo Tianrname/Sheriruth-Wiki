@@ -9,3 +9,21 @@
 .attr-shadow {
   text-shadow: 4px 4px 6px rgba(0, 0, 0, 0.5);
 }
+
+/* 让 Arcaea 图片右浮动并添加样式 */
+img[alt="Arcaea"] {
+  float: right;
+  margin: 0 40px 10px 40px;
+  max-width: 160px;
+  border-radius: 8px;
+  display: block;
+}
+
+/* 图片下方说明文字样式（如果紧跟在图片后面） */
+img[alt="Arcaea"] + p,
+img[alt="Arcaea"] + em {
+  font-size: 0.8em;
+  color: #888;
+  text-align: center;
+  margin-top: 4px;
+}
