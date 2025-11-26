@@ -3,10 +3,13 @@ theme:
   name: 'material'
   extra_css:
     - assets/extra.css
+markdown_extensions:
+  - attr_list
 nav:
   - 首页: index.md
   - 入门:
-      - 世界观: xinshou/世界观.md
+      - 世界观: 世界观.md
       - 属性:
-          - 概述: /xinshou/属性
-          - FAQ: /xinshou/属性
+          - 概述: 属性/概述.md
+      - 等级: 等级.md
+      - 宝石: 宝石.md

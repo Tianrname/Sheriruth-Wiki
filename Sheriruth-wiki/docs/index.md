@@ -1,9 +1,9 @@
 # Sheriruth Wiki
 
   欢迎来到 Sheriruth 服务器 Sheriruth 是一个基于Minecraft原版开发的RPG服
-  ，版本为1.12.2，预计开服日期为2025/12/1 制作者仅有 天坑 一人
+  ，版本为1.12.2，预计将在2025年12月开服 制作者仅有 天坑 一人
 
-    服务器QQ群: 877593335sss
+    服务器QQ群: 877593335
 
 
   更新日志：
@@ -35,4 +35,8 @@
  · 现在在线时，经验增长速度会提升 30% 离线则恢复原速
 
   ---
- 
+
+<div style="background-color: #f0f0f0; padding: 8px 12px; border-radius: 6px; display: inline-block;">
+  <img src="images/天坑.png" alt="天坑" />
+</div>
+<div style="font-size: 0.85em; color: #888; margin-top: 4px; text-align: center;">（Sheriruth 制作者）</div>
